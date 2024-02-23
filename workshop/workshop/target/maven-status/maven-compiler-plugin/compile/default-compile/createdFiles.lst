@@ -1,0 +1,9 @@
+com\linehaul\workshop\Controller\DatabaseHandler.class
+com\linehaul\workshop\Model\QueryModel.class
+com\linehaul\workshop\Services\TruckTypeSrvc.class
+com\linehaul\workshop\Model\GenericResponse.class
+com\linehaul\workshop\Repositories\TruckTypeRepo.class
+com\linehaul\workshop\Entity\TruckTypeEntity.class
+com\linehaul\workshop\Services\DatabaseConnector.class
+com\linehaul\workshop\Services\DbMainSrvc.class
+com\linehaul\workshop\WorkshopApplication.class
